@@ -19,7 +19,7 @@ See http://nodejs.org/api/zlib.html#zlib_options
 
 
 ##Strategies
-Add addition option strategies -- array of compress strategies. See strategy
+Add addition option strategies -- array of compress strategies. See strategy option.
 
 If this param is set gzip-no-pipe will be use all strategies and return best compressed data.
 
