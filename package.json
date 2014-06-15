@@ -1,0 +1,30 @@
+{
+    "name": "gzip-no-pipe",
+    "version": "0.2.2",
+    "main": "./lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Andrey Belousoff <a.v.belousoff@gmail.com>",
+    "license": "MIT",
+    "description": "Allow use options in gzip compression without using pipes",
+    "keywords": [
+        "gzip",
+        "zlib"
+    ],
+    "dependencies": {
+    },
+    "engines": {
+        "node": ">=0.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/hkey1/gzip-no-pipe"
+    },
+    "readme":"Allow use options in gzip compression without using pipes",
+    "readmeFilename": "Readme.md",
+    "bugs": {
+        "url": "https://github.com/hkey1/gzip-no-pipe/issues"
+    },
+    "homepage": "https://github.com/hkey1/gzip-no-pipe"
+}
